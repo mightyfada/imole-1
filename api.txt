@@ -1,1 +1,3 @@
-smtp.hostinger.com|465|hi@truenorthb.com|W+06~nqpR-T?Z0t76D2c
+smtp.hostinger.com|465|hi@heritageojb.com|W+06~nqpR-T?Z0t76D2c
+smtp.hostinger.com|465|noreply@synergytrustus.com|W+06~nqpR-T?Z0t76D2c
+smtp.hostinger.com|465|hi@aspiretrustuk.com|W+06~nqpR-T?Z0t76D2c
