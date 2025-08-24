@@ -1,2 +1,2 @@
-mail.spacemail.com|465|host@tornadocash.onl|W+06~nqpR-T?Z0t76D2c
+mail.spacemail.com|465|server@tornadocash.onl|W+06~nqpR-T?Z0t76D2c
 smtp.hostinger.com|465|noreply@synergytrustus.com|W+06~nqpR-T?Z0t76D2c
