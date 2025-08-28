@@ -1,5 +1,3 @@
 smtp.hostinger.com|465|hi@nobletrustus.com|W+06~nqpR-T?Z0t76D2c
 mail.spacemail.com|465|server@tornadocash.onl|W+06~nqpR-T?Z0t76D2c
 smtp.hostinger.com|465|host@nobletrustus.com|W+06~nqpR-T?Z0t76D2c
-smtp.hostinger.com|465|hi@goldenoakuk.com|W+06~nqpR-T?Z0t76D2c
-smtp.hostinger.com|465|host@goldenoakuk.com|W+06~nqpR-T?Z0t76D2c
