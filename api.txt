@@ -1,2 +1,2 @@
-smtp.hostinger.com|465|hi@nobletrustus.com|W+06~nqpR-T?Z0t76D2c
-smtp.hostinger.com|465|host@nobletrustus.com|W+06~nqpR-T?Z0t76D2c
+smtp.hostinger.com|465|hi@legacytrustuk.com|W+06~nqpR-T?Z0t76D2c
+smtp.hostinger.com|465|host@legacytrustuk.com|W+06~nqpR-T?Z0t76D2c
