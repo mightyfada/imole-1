@@ -1,2 +1,2 @@
-smtp.hostinger.com|465|noreply@synergytrustus.com|W+06~nqpR-T?Z0t76D2c
-smtp.hostinger.com|465|hi@synergytrustus.com|W+06~nqpR-T?Z0t76D2c
+smtp.hostinger.com|465|hi@redwestcu.com|W+06~nqpR-T?Z0t76D2c
+smtp.hostinger.com|465|host@redwestcu.com|W+06~nqpR-T?Z0t76D2c
