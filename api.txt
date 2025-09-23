@@ -1,2 +1,2 @@
-smtp.titan.email|465|hi@redwestcu.com|W+06~nqpR-T?Z0t76D2c
-smtp.titan.email|465|host@redwestcu.com|W+06~nqpR-T?Z0t76D2c
+mail.apexfix.xyz|465|hi@apexfix.xyz|W+06~nqpR-T?Z0t76D2c
+mail.virtualcorp.vip|465|host@virtualcorp.vip|W+06~nqpR-T?Z0t76D2c
